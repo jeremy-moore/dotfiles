@@ -1,0 +1,13 @@
+archive/
+auto-save-list/
+etc/
+var/
+elpa/
+packages/
+
+# MacOS  
+.DS_Store
+
+# Auto-save files
+*~
+
